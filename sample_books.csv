@@ -1,0 +1,24 @@
+title,author,category,description,isbn,copies
+Introduction to Algorithms,"Thomas H. Cormen, Charles Leiserson, Ronald Rivest, Clifford Stein",Algorithms,"Comprehensive textbook on algorithm design and analysis: sorting, graphs, dynamic programming, greedy methods and complexity.",9780262046305,3
+Data Structures and Algorithms in Python,"Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser",Algorithms,"Data structures such as stacks, queues, trees, hash tables and graphs, implemented and analysed in Python.",9781118290279,2
+Clean Code,Robert C. Martin,Software Engineering,"A handbook of writing readable, maintainable code with practical rules for naming, functions and refactoring.",9780132350884,2
+Software Engineering,Ian Sommerville,Software Engineering,"Covers the software process, requirements, design, testing and project management.",9780133943030,2
+Python Crash Course,Eric Matthes,Programming,"Hands-on introduction to Python programming for beginners, with projects including a game, a data visualisation and a web app.",9781718502703,3
+Automate the Boring Stuff with Python,Al Sweigart,Programming,"Beginner-friendly guide to using Python to automate everyday tasks such as files, spreadsheets and web scraping.",9781593279929,2
+Learning Python,Mark Lutz,Programming,"In-depth tutorial on the Python language, its types, functions, classes and modules.",9781449355739,1
+The C Programming Language,"Brian W. Kernighan, Dennis M. Ritchie",Programming,The classic introduction to the C language by its creators.,9780131103627,2
+Let Us C,Yashavant Kanetkar,Programming,Beginner-oriented introduction to C programming with many solved examples.,9789388511377,3
+Eloquent JavaScript,Marijn Haverbeke,Web Development,"Modern introduction to JavaScript, programming concepts and browser programming.",9781593279509,2
+"Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow",Aurelien Geron,Machine Learning,"Practical introduction to machine learning and deep learning with scikit-learn, Keras and TensorFlow.",9781098125974,3
+Pattern Recognition and Machine Learning,Christopher M. Bishop,Machine Learning,"Rigorous textbook on probabilistic machine learning, classification, regression and graphical models.",9780387310732,1
+Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",Machine Learning,"Textbook covering neural networks, optimisation and modern deep learning methods.",9780262035613,2
+Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",Artificial Intelligence,"Leading textbook on artificial intelligence: search, knowledge, reasoning, planning and learning.",9780134610993,2
+Introduction to Information Retrieval,"Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze",Information Retrieval,"Covers search engines, TF-IDF, vector space models, indexing and text classification.",9780521865715,1
+Python for Data Analysis,Wes McKinney,Data Science,"Data wrangling and analysis in Python using pandas, NumPy and Jupyter.",9781098104030,2
+Database System Concepts,"Abraham Silberschatz, Henry F. Korth, S. Sudarshan",Databases,"Core database textbook: relational model, SQL, normalisation, transactions and storage.",9780078022159,3
+Fundamentals of Database Systems,"Ramez Elmasri, Shamkant B. Navathe",Databases,"Introduction to database design, ER modelling, SQL and database internals.",9780133970777,2
+Designing Data-Intensive Applications,Martin Kleppmann,Databases,"How to build reliable, scalable systems: storage, replication, partitioning and stream processing.",9781449373320,1
+Computer Networks,"Andrew S. Tanenbaum, David J. Wetherall",Networks,"Introduction to computer networks, protocols, the internet, TCP/IP and network security.",9780132126953,2
+Operating System Concepts,"Abraham Silberschatz, Peter B. Galvin, Greg Gagne",Operating Systems,"Processes, threads, scheduling, memory management, file systems and security in operating systems.",9781119800361,3
+Introduction to the Theory of Computation,Michael Sipser,Theory of Computation,"Automata, formal languages, computability and complexity theory.",9781133187790,1
+Discrete Mathematics and Its Applications,Kenneth H. Rosen,Mathematics,"Logic, sets, combinatorics, graph theory and proofs for computer science students.",9781259676512,2
